@@ -1,0 +1,122 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LibraryManagementApplication",
+            "request": "launch",
+            "mainClass": "com.assignment12.library_management.LibraryManagementApplication",
+            "projectName": "library_management"
+        },
+        {
+            "type": "java",
+            "name": "EmployeemanagementApplication",
+            "request": "launch",
+            "mainClass": "com.day13.employeemanagement.EmployeemanagementApplication",
+            "projectName": "employeemanagement"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "mainPgm",
+            "request": "launch",
+            "mainClass": "database_DAO.mainPgm",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MoviesDatabase",
+            "request": "launch",
+            "mainClass": "MoviesDatabase",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "BattleshipGameApp.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "SubscriptionChecker",
+            "request": "launch",
+            "mainClass": "SubscriptionChecker",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "InsuranceApp",
+            "request": "launch",
+            "mainClass": "InsuranceApp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticOperationsApp",
+            "request": "launch",
+            "mainClass": "ArithmeticOperationsApp",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TourPackage",
+            "request": "launch",
+            "mainClass": "TourPackage",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "integer",
+            "request": "launch",
+            "mainClass": "integer",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "autombile.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": ""
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        }
+    ]
+}
